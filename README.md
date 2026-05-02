@@ -532,7 +532,6 @@ limitations under the License.
 - **N** (Network) - 网络：聚焦园区网网络设备、IP地址、终端等网络资源
 - **CMDB** (Configuration Management Database) - 配置管理数据库：提供完整的资产配置信息管理能力
 
-- 📧 Email: dingtongbin@example.com
 - 💼 GitHub: [@dingtongbin](https://github.com/dingtongbin)
 
 ---
@@ -552,7 +551,7 @@ limitations under the License.
 
 如有问题或建议，欢迎：
 - 提交 [Issue](https://github.com/dingtongbin/ncmdb/issues)
-- 发送邮件至：dingtongbin@example.com
+- 访问我的 [GitHub Profile](https://github.com/dingtongbin)
 
 ---
 
